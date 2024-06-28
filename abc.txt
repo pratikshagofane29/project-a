@@ -1,2 +1,2 @@
 met institute
- met student
+ met student/teacher
